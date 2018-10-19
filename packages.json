@@ -273,6 +273,26 @@
     "repo": "https://github.com/sharkdp/purescript-colors.git",
     "version": "v5.0.0"
   },
+  "concur-react": {
+    "dependencies": [
+      "aff",
+      "affjax",
+      "argonaut-codecs",
+      "argonaut-core",
+      "arrays",
+      "avar",
+      "datetime",
+      "free",
+      "prelude",
+      "psci-support",
+      "react",
+      "react-dom",
+      "web-dom",
+      "web-html"
+    ],
+    "repo": "https://github.com/ajnsit/purescript-concur.git",
+    "version": "v0.2.0"
+  },
   "console": {
     "dependencies": [
       "effect",
